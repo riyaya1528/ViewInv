@@ -1,0 +1,7 @@
+name: ViewInventory
+version: 1.0-SNAPSHOT
+main: io.github.spigot.plugin.viewinv.viewinv.Viewinv
+commands:
+  inv:
+    description: プレイヤーのインベントリを編集・閲覧します。
+    usage:
